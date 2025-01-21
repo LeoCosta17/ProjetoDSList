@@ -1,2 +1,2 @@
 # ProjetoDSList
-Projeto curso de SpringBoot do Professor Nélio Alves - DevSuperios
+Projeto curso de SpringBoot do Professor Nélio Alves - DevSuperior
