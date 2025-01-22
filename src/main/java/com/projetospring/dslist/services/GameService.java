@@ -8,7 +8,6 @@ import org.springframework.stereotype.Component;
 import com.projetospring.dslist.repositories.GameRepository;
 import com.projetospring.dslist.dto.GameMinDTO;
 import com.projetospring.dslist.entities.Game;
-import org.springframework.data.repository.ListCrudRepository;
 
 @Component
 public class GameService {
